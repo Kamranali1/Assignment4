@@ -1,0 +1,60 @@
+.heading1{
+text-align: center;
+color: rgb(218, 218, 218);
+}
+.Div1{
+    background-color: rgb(77, 77, 129);
+}
+.navbar-nav{
+    margin: auto;
+}
+.position{
+    position:sticky ;
+    top: 0px;
+} 
+.container1{ 
+    text-align: justify;
+    background-color: rgb(77, 77, 129);
+    color: rgb(218, 218, 218);
+}
+.h1{
+    text-align: center;
+    text-shadow: black 2px 2px 2px;
+}
+.Box1{
+    background-color: rgb(77, 77, 129);
+    color: rgb(218, 218, 218);
+    box-shadow: black 2px 2px 2px;
+    border-radius: 30px;
+}
+.h2{
+    text-align: center;
+    text-shadow: black 2px 2px 2px;
+}
+.h31{
+    color: greenyellow;
+    text-align: center; 
+    text-shadow: black 2px 2px 2px;
+    font-weight: bold;
+   
+}
+.PARA{
+    text-align: justify;
+    font-weight: bold;
+}
+.Div2{
+    background-color: rgb(77, 77, 200);
+}
+.HEAD{
+    text-shadow: greenyellow 2px 2px 2px ;
+}
+.Copy{
+    background-color: rgb(77, 77, 129);
+    height: 40px;
+
+}
+.COPY{
+    color: white;
+    padding-left:100px ;
+    
+}

@@ -1,0 +1,50 @@
+.paragraph{
+    text-align: center;
+}
+fieldset{
+    color: white;
+    background-color: rgb(91, 57, 185);
+}
+h1{
+    color: rgb(91, 57, 185);
+    text-align: center;
+   
+}
+.firstcol{
+    width: 200px;
+}.firstrow{
+    height: 50px;
+}
+.thirdcol{
+    width: 200px;
+}
+.thirdrow{
+    height: 50px;
+}
+.forthrow{
+    height: 50px;
+}
+.fifthrow{
+    height: 50px;
+}
+.sixthrow{
+    height: 50px;
+}
+.seventhrow{
+    height: 50px;
+}
+.eightthrow{
+    height: 50px;
+}
+.ninthrow{
+    height: 50px;
+}
+.tenthrow{
+    height: 50px;
+}
+.center{
+    text-align: center;
+}
+.link{
+    text-align: center;
+}
